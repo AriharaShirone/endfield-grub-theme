@@ -1,7 +1,7 @@
 # endfield-grub-theme
 A grub theme based on Arknights: Endfield login screen
 
-Part of artworks belong to [Hypergryph](https://hypergryph.com).
+Part of artworks belongs to [Hypergryph](https://hypergryph.com).
 
 Previews available on [Bilibili](https://www.bilibili.com/video/av113108752271229)
 
